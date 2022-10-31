@@ -1,6 +1,6 @@
 # this is a famous dp problem, but instead of n coins, we got fixed number, which is 5
 # So the time complexity is O(5*target)
-# however, there are two problems here, in one, not sure if I can combine them or just solve them seperatly since max target is so low
+# however, there are two dp problems here, in one, not sure if I can combine them or just solve them seperatly since max target is so low
 # this code can be improved, A LOT, use only to udnerstand general idea
 # Top down might be even better in this case, also creating separate functions for each dp is also a better way to go about this
 import sys
